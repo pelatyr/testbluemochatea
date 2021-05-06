@@ -1,0 +1,4 @@
+"status_id","status_transport"
+"0","create_order"
+"2","delivery_order"
+"3","received_order"
